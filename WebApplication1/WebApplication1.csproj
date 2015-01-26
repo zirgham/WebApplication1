@@ -65,13 +65,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\game.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="js\" />
     <Folder Include="styles\" />
   </ItemGroup>
   <PropertyGroup>
